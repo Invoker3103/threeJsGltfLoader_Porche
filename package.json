@@ -1,0 +1,20 @@
+{
+  "name": "threejs_gltf",
+  "version": "1.0.0",
+  "description": "this project is about load the gltf files into the screen ",
+  "main": "loader_one.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddhesh",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "three": "^0.167.1"
+  }
+}
